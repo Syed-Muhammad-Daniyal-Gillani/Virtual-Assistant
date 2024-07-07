@@ -1,0 +1,3 @@
+﻿  VirtualAssistant.cpp
+D:\UserFiles - Darkness\Work\VirtualAssistant\VirtualAssistant.cpp(112,24): warning C4101: 'c': unreferenced local variable
+  VirtualAssistant - AudioPlayer.vcxproj -> D:\UserFiles - Darkness\Work\VirtualAssistant\x64\Debug\VirtualAssistant.exe
